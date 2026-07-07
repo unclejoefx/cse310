@@ -7,7 +7,6 @@
 /home/uwajoe/byu/cse310/hello-world-csharp/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
 /home/uwajoe/byu/cse310/hello-world-csharp/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
 /home/uwajoe/byu/cse310/hello-world-csharp/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
-/home/uwajoe/byu/cse310/hello-world-csharp/obj/Debug/net8.0/HelloWorld.sourcelink.json
 /home/uwajoe/byu/cse310/hello-world-csharp/obj/Debug/net8.0/HelloWorld.dll
 /home/uwajoe/byu/cse310/hello-world-csharp/obj/Debug/net8.0/refint/HelloWorld.dll
 /home/uwajoe/byu/cse310/hello-world-csharp/obj/Debug/net8.0/HelloWorld.pdb
