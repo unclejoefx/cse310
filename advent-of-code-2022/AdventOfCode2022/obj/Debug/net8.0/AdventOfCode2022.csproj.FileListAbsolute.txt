@@ -1,0 +1,14 @@
+/home/uwajoe/byu/cse310/advent-of-code-2022/AdventOfCode2022/bin/Debug/net8.0/AdventOfCode2022
+/home/uwajoe/byu/cse310/advent-of-code-2022/AdventOfCode2022/bin/Debug/net8.0/AdventOfCode2022.deps.json
+/home/uwajoe/byu/cse310/advent-of-code-2022/AdventOfCode2022/bin/Debug/net8.0/AdventOfCode2022.runtimeconfig.json
+/home/uwajoe/byu/cse310/advent-of-code-2022/AdventOfCode2022/bin/Debug/net8.0/AdventOfCode2022.dll
+/home/uwajoe/byu/cse310/advent-of-code-2022/AdventOfCode2022/bin/Debug/net8.0/AdventOfCode2022.pdb
+/home/uwajoe/byu/cse310/advent-of-code-2022/AdventOfCode2022/obj/Debug/net8.0/AdventOfCode2022.GeneratedMSBuildEditorConfig.editorconfig
+/home/uwajoe/byu/cse310/advent-of-code-2022/AdventOfCode2022/obj/Debug/net8.0/AdventOfCode2022.AssemblyInfoInputs.cache
+/home/uwajoe/byu/cse310/advent-of-code-2022/AdventOfCode2022/obj/Debug/net8.0/AdventOfCode2022.AssemblyInfo.cs
+/home/uwajoe/byu/cse310/advent-of-code-2022/AdventOfCode2022/obj/Debug/net8.0/AdventOfCode2022.csproj.CoreCompileInputs.cache
+/home/uwajoe/byu/cse310/advent-of-code-2022/AdventOfCode2022/obj/Debug/net8.0/AdventOfCode2022.dll
+/home/uwajoe/byu/cse310/advent-of-code-2022/AdventOfCode2022/obj/Debug/net8.0/refint/AdventOfCode2022.dll
+/home/uwajoe/byu/cse310/advent-of-code-2022/AdventOfCode2022/obj/Debug/net8.0/AdventOfCode2022.pdb
+/home/uwajoe/byu/cse310/advent-of-code-2022/AdventOfCode2022/obj/Debug/net8.0/AdventOfCode2022.genruntimeconfig.cache
+/home/uwajoe/byu/cse310/advent-of-code-2022/AdventOfCode2022/obj/Debug/net8.0/ref/AdventOfCode2022.dll
